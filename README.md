@@ -30,7 +30,7 @@ A `main.py` function is available with a recommendation of how the json containi
 </p>
 <br />
 
-#### Proportion representation of type of post
+#### Proportional representation of type of post
 <p align="center">
     <img src="sampleImages/typeOfPost-neymarjr.png" width="600" />
 </p>
